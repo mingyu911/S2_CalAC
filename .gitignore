@@ -1,0 +1,14 @@
+# Input data (Sentinel-2 L1C, GADM)
+data/
+*.zip
+*.SAFE/
+*.jp2
+
+# Outputs
+output/
+
+# Python / IDL
+__pycache__/
+*.pyc
+*.sav
+.ipynb_checkpoints/
